@@ -21,7 +21,7 @@ export const PROJECTS = [
     category: 'Network Production',
     description: 'Commissioned directly by HGTV to produce a home tour episode featuring Memphis-based designer David Quarles IV. Produced, directed, and delivered to network standards. Now at 103K views on YouTube.',
     tags: ['Direction', 'Production', 'Network Television'],
-    image: '/images/project3.png',
+    image: '/images/project3.jpg',
     link: 'https://www.youtube.com/watch?v=y-p0mYQBcRk',
   },
   {
